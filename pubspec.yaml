@@ -1,0 +1,26 @@
+name: pingzo_mobile
+description: "PingZo - Realtime Grocery & Fresh Vegetable Delivery App in Flutter with Bento Grid Theme"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  flutter_animate: ^4.2.0+1
+  http: ^1.1.0
+  provider: ^6.0.5
+  intl: ^0.18.1
+  connectivity_plus: ^6.0.0
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
