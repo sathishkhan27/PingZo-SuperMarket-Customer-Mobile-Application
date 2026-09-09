@@ -1,1 +1,1 @@
-# PingZo-SuperMarket-Mobile-App
+# PingZo-SuperMarket-Customer-Mobile-App
